@@ -3,7 +3,6 @@ def my_hash
  end
  
  def shipping_manifest
-   shipping_manifest = {}
    shipping_manifest = {"whale bone corset" => 5, "porcelane vases" => 2, "oil paintings" => 3}
  end
  
